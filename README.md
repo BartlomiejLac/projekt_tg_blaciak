@@ -1,1 +1,2 @@
-# projekt_tg_blaciak
+# Projekt na Teorię Grafów
+Bartłomiej Łaciak
